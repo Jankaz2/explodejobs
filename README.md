@@ -3,7 +3,7 @@
 This repository is only a description of what the [explodejobs.pl](https://explodejobs.pl) is. The
 code is stored in private repository hosted on Gitlab.
 
-## 1. What is [explodejobs.pl](https://explodejobs.pl)
+## 1. What [explodejobs.pl](https://explodejobs.pl) is
 ExplodeJobs is a job portal for interns and juniors. I know that finding your first job 
 is difficult. Many of my friends have similar thoughts. You have to send emails to 
 all the employers in the area to ask if they are hiring students/juniors and expect them to respond at least within a few days.
