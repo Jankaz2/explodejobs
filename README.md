@@ -1,6 +1,6 @@
 # ExplodeJobs
 
-This repository is only a description of what is the [explodejobs.pl](https://explodejobs.pl). The
+This repository is only a description of what the [explodejobs.pl](https://explodejobs.pl) is. The
 code is stored in private repository hosted on Gitlab.
 
 ## 1. What is [explodejobs.pl](https://explodejobs.pl)
